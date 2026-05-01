@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+requests
+cloudscraper
+user_agent
+requests_toolbelt
